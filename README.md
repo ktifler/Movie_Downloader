@@ -96,9 +96,7 @@ things you need to install and how to install them.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+<img src='demo.gif'>
 
 
 
