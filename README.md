@@ -1,5 +1,5 @@
 # Movie_Downloader
-Download movies with arabic substitles without worrying about the ANNOYING ads and popus.all can be done from your terminal.
+Download movies with arabic substitles without worrying about the ANNOYING ads and popus.All can be done from the comfort of your terminal.
 
 
 <!-- PROJECT SHIELDS -->
