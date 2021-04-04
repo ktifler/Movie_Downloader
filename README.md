@@ -68,7 +68,7 @@ you need to have python installed
 
 ### Prerequisites
 
-things you need to installand how to install them.
+things you need to install and how to install them.
 * Beatifulsoup
   ```sh
   pip install beautifulsoup4
