@@ -88,7 +88,7 @@ things you need to install and how to install them.
    ```sh
    git clone https://github.com/ktifler/Movie_Downloader
    ```
-2. change download directory inside the py script (first line after scapper class definition)
+2. change download directory inside the py script (line 14)
   
 
 
