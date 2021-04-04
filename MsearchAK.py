@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  3 11:43:34 2020
 
-@author: Saddam
+@author: ktifler
 """
 
 from bs4 import BeautifulSoup
