@@ -36,7 +36,7 @@ class scraper:
         return page, soup
 
     def get_movies_names(self, name):
-        _ , soup = self.get_page(self.make_url(name))
+        _ , soup = self.get_page(self.final_url)
         query_results = soup.find_all("h3", class_="entry-title")
         
         return {entity.find_next(string=True):entity.find_next("a")['href'] for entity in query_results}
